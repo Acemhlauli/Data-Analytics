@@ -65,7 +65,7 @@ Assignment-1-Stock-Prediction/
 │   └── Group_4_Mhlauli_A_&_Mukuvari_A_Final_Presentaion.pdf
 │
 ├── data/
-│   └── (Optional: Can be used to store CSV exports of the merged data)
+│   └── (all_normalized_trends.csv)
 │
 ├── README.md
 └── LICENSE
