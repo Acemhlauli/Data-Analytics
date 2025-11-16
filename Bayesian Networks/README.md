@@ -522,8 +522,7 @@ with open('data/Original_bayesian_models.pkl', 'rb') as f:
 ## Contributors
 
 **Group 4:**
-- **Ayanda Mhlauli** - Feature Engineering, SMOTE Implementation, Report Writing
-- **[Co-author Name]** - KNN/GAN Implementation, Bayesian Network Training, Visualization
+- **Ayanda Mhlauli** - Feature Engineering, SMOTE Implementation, Report Writing, KNN/GAN Implementation, Bayesian Network Training, Visualisation
 
 **Supervisor:**
 - Dr. Herkulaas MvE Combrink, University of the Free State
