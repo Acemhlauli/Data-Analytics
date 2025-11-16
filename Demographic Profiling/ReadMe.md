@@ -1,4 +1,4 @@
-# **Assignment 3: Demographic Profiling of Purchase Intent Using Probabilistic Models**
+# **Demographic Profiling of Purchase Intent Using Probabilistic Models**
 
 ## **Project Overview**
 
