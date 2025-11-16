@@ -1,7 +1,3 @@
-Here is a complete `README.md` file for your Assignment 1, written in the same professional, structured, and academic style as the Assignment 3 guideline you provided.
-
------
-
 # **Lead-Lag Indicators in Stock Market Predictions**
 
 ## Project Overview
