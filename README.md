@@ -4,6 +4,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Site-blue)](https://sites.google.com/view/mhlauliayanda-eportfolio/home?authuser=0)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
+[![UFS-ZA BASE](https://img.shields.io/badge/Python-3.8%2B-blue)]([https://www.python.org/](https://github.com/ufs-za/BASE))
 
 ---
 
@@ -170,11 +171,11 @@ I am a data analytics specialist with a strong foundation in economics, finance,
 
 **Professional Links:**
 
-* **Email:** [ayandamhlauli0@gmail.com](mailto:ayandamhlauli0@gmail.com)
-* **LinkedIn:** [linkedin.com/in/mhlauliayanda](https://www.linkedin.com/in/mhlauliayanda/)
-* **GitHub:** [github.com/Acemhlauli](https://github.com/Acemhlauli)
-* **ePortfolio:** [Live Site](https://sites.google.com/view/mhlauliayanda-eportfolio/home?authuser=0)
-* **CV:** [Download PDF](https://drive.google.com/file/d/1bGdTIFMwfU4tw0T7eQMpLAjBo3olInH9/view?usp=sharing)
+* **Email:** [Email Mhlauli Ayanda](mailto:ayandamhlauli0@gmail.com)
+* **LinkedIn:** [Visit my LinkedIn](https://www.linkedin.com/in/mhlauliayanda/)
+* **GitHub:** [Visit my GitHub](https://github.com/Acemhlauli)
+* **ePortfolio:** [Visit my ePortfolio](https://sites.google.com/view/mhlauliayanda-eportfolio/home?authuser=0)
+* **CV:** [View my CV](https://drive.google.com/file/d/1bGdTIFMwfU4tw0T7eQMpLAjBo3olInH9/view?usp=sharing)
 
 ---
 
@@ -183,7 +184,7 @@ I am a data analytics specialist with a strong foundation in economics, finance,
 **Programme:** B.Com Honours in Business and Financial Analytics
 **Module:** EDAB 6808
 **Institution:** University of the Free State
-**Supervisor:** Dr. Herkulaas MvE Combrink
+**Supervisor:** Dr Herkulaas MvE Combrink, and Nyashadzashe Tamuka
 **Year:** 2025
 
 ---
@@ -229,10 +230,10 @@ See the LICENSE file for further information.
 
 ## Acknowledgements
 
-* Dr. Herkulaas MvE Combrink for supervision and guidance
+* Dr. Herkulaas MvE Combrink and Nyashadzashe Tamuka for supervision and guidance
 * University of the Free State for academic support
 * EDAB 6808 cohort for peer insights
-* Open-source developers for tools, libraries, and frameworks
+* Open-source developers for tools, libraries, frameworks, and OpenAI and other LLMs
 
 ---
 
@@ -240,10 +241,12 @@ See the LICENSE file for further information.
 
 For academic or professional inquiries:
 
-* **Email:** [ayandamhlauli0@gmail.com](mailto:ayandamhlauli0@gmail.com)
-* **LinkedIn:** [linkedin.com/in/mhlauliayanda](https://www.linkedin.com/in/mhlauliayanda/)
-* **GitHub:** [github.com/Acemhlauli](https://github.com/Acemhlauli)
-
+* **Email:** [Email Mhlauli Ayanda](mailto:ayandamhlauli0@gmail.com)
+* **LinkedIn:** [Visit my LinkedIn](https://www.linkedin.com/in/mhlauliayanda/)
+* **GitHub:** [Visit my GitHub](https://github.com/Acemhlauli)
+* **ePortfolio:** [Visit my ePortfolio](https://sites.google.com/view/mhlauliayanda-eportfolio/home?authuser=0)
+* **CV:** [View my CV](https://drive.google.com/file/d/1bGdTIFMwfU4tw0T7eQMpLAjBo3olInH9/view?usp=sharing)
+* **GitHub:** [Visit UFS BASE GitHub]([https://github.com/Acemhlauli](https://github.com/ufs-za/BASE))
 ---
 
 **Last Updated:** November 2025
