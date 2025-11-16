@@ -96,7 +96,7 @@ nltk.download('wordnet')
 ## Contributors
 
 * Ayanda Mhlauli
-* Tlotlego Matlhare
+* Tshenolo Matlhare
 
 ### Course
 
