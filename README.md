@@ -1,4 +1,3 @@
-
 # **Ayanda Mhlauli: Data Analytics Portfolio**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Site-blue)](https://sites.google.com/view/mhlauliayanda-eportfolio/home?authuser=0)
@@ -12,7 +11,7 @@
 
 This repository contains the complete technical implementation for a series of advanced analytics projects completed as part of the **B.Com Honours in Business and Financial Analytics (EDAB 6808)** at the University of the Free State.
 
-The work presented integrates **economics, finance, data science, forecasting, machine learning, Bayesian inference, and natural language processing**, and demonstrates the application of scientific methodologies to real-world business problems.
+The work presented integrates **economics, finance, data science, forecasting, machine learning, Bayesian inference, natural language processing, and anomaly detection**, and demonstrates the application of scientific methodologies to real-world business problems.
 
 ---
 
@@ -32,7 +31,6 @@ The ePortfolio includes:
 ---
 
 ## Repository Structure
-
 ```
 Ayanda-Mhlauli-Portfolio/
 │
@@ -56,6 +54,12 @@ Ayanda-Mhlauli-Portfolio/
 ├── 04-Discourse-Sentiment-Mapping/
 │   ├── notebooks/
 │   ├── output/
+│   └── README.md
+│
+├── 05-Anomaly-Detection/
+│   ├── notebooks/
+│   ├── models/
+│   ├── visualizations/
 │   └── README.md
 │
 ├── LICENSE
@@ -140,6 +144,28 @@ Raw data remains confidential under NDA and is excluded from this repository.
 
 ---
 
+### 5. Ensemble Anomaly Detection in Time-Series Data
+
+**Folder:** `/05-Anomaly-Detection`
+
+**Objective:** Develop an anomaly detection model capable of identifying single anomalous points in time-series datasets with minimum 85% accuracy on unseen data.
+
+**Methods Used:**
+
+* Ensemble learning: Isolation Forest, Local Outlier Factor, One-Class SVM
+* Statistical analysis: Z-score deviation detection
+* Feature engineering: rolling statistics, derivatives, residuals
+* Hyperparameter optimization: grid search across 39,366 combinations
+* Comprehensive visualization: score analysis, distribution plots, feature importance
+
+**Key Finding:**
+The ensemble model achieved 94% accuracy through optimal combination of complementary algorithms (ISO=0.4, LOF=0.2, SVM=0.1, Z-score=0.1), engineered multi-scale temporal features, and a 2-point smoothing window. The system works across diverse anomaly types without prior data knowledge.
+
+**Applications:**
+Financial market surveillance, manufacturing sensor monitoring, cybersecurity threat detection, healthcare vital sign analysis.
+
+---
+
 ## Technical Skills Demonstrated
 
 | Domain                  | Tools & Techniques                                            |
@@ -148,10 +174,12 @@ Raw data remains confidential under NDA and is excluded from this repository.
 | Machine Learning        | XGBoost, Random Forest, KNN, feature engineering              |
 | Deep Learning           | GANs, neural architectures (PyTorch)                          |
 | Probabilistic Modelling | Bayesian Networks, DAGs, Variable Elimination                 |
+| Anomaly Detection       | Isolation Forest, LOF, One-Class SVM, ensemble methods        |
 | NLP                     | Sentiment analysis (VADER, TextBlob), LDA, text preprocessing |
 | Data Engineering        | External API integration, data cleaning, transformation       |
 | Visualisation           | matplotlib, seaborn, plotly, pyLDAvis, networkx               |
 | Programming             | Python, Jupyter Notebooks, Git/GitHub                         |
+| Optimization            | Grid search, hyperparameter tuning, cross-validation          |
 
 ---
 
@@ -167,7 +195,7 @@ Raw data remains confidential under NDA and is excluded from this repository.
 
 ## About Me
 
-I am a data analytics specialist with a strong foundation in economics, finance, and computational methods. My analytic interests include predictive modelling, causal inference, machine learning, and applied econometrics.
+I am a data analytics specialist with a strong foundation in economics, finance, and computational methods. My analytic interests include predictive modelling, causal inference, machine learning, anomaly detection, and applied econometrics.
 
 **Professional Links:**
 
@@ -192,14 +220,12 @@ I am a data analytics specialist with a strong foundation in economics, finance,
 ## Installation and Usage
 
 ### Prerequisites
-
 ```bash
 Python 3.8+
 Jupyter Notebook or Google Colab
 ```
 
 ### Clone the Repository
-
 ```bash
 git clone https://github.com/Acemhlauli/data-analytics-portfolio.git
 cd data-analytics-portfolio
@@ -208,13 +234,11 @@ cd data-analytics-portfolio
 ### Install Dependencies
 
 Each project contains a `requirements.txt` file:
-
 ```bash
 pip install -r requirements.txt
 ```
 
 ### Run Notebooks
-
 ```bash
 jupyter notebook
 ```
@@ -230,7 +254,7 @@ See the LICENSE file for further information.
 
 ## Acknowledgements
 
-* Dr. Herkulaas MvE Combrink and Nyashadzashe Tamuka for supervision and guidance
+* Dr Herkulaas MvE Combrink and Nyashadzashe Tamuka for supervision and guidance
 * University of the Free State for academic support
 * EDAB 6808 cohort for peer insights
 * Open-source developers for tools, libraries, frameworks, and OpenAI and other LLMs
@@ -246,11 +270,11 @@ For academic or professional inquiries:
 * **GitHub:** [Visit my GitHub](https://github.com/Acemhlauli)
 * **ePortfolio:** [Visit my ePortfolio](https://sites.google.com/view/mhlauliayanda-eportfolio/home?authuser=0)
 * **CV:** [View my CV](https://drive.google.com/file/d/1bGdTIFMwfU4tw0T7eQMpLAjBo3olInH9/view?usp=sharing)
-* **GitHub:** [Visit UFS BASE GitHub]([https://github.com/Acemhlauli](https://github.com/ufs-za/BASE))
+* **GitHub:** [Visit UFS BASE GitHub](https://github.com/ufs-za/BASE)
+
 ---
 
 **Last Updated:** November 2025
 **Repository Status:** Complete and actively maintained.
 
 ---
-
